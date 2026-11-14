@@ -2,7 +2,7 @@
 
 **Domain:** Password & Authentication  
 **Standards:** NIST SP 800-63B | RFC 6238 (TOTP) | OWASP ASVS  
-**Live Demo URL:** `https://ais-pre-xmln3kujbraieztns5vza3-475063702757.asia-southeast1.run.app`
+**Live Demo URL:** `https://mfa-app-test-1.netlify.app/`
 
 ---
 
